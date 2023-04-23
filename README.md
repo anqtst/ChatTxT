@@ -1,3 +1,3 @@
 # ChatTxT
 
-Random TxT generator 
+Android Random TxT generator 
