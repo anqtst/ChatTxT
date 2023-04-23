@@ -1,0 +1,3 @@
+# ChatTxT
+
+Random TxT generator 
